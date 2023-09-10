@@ -2,6 +2,7 @@
 Simple configuration of a reverse proxy with nginx, httpd and podman
 
 ## Original tutorial
+
 https://www.redhat.com/sysadmin/podman-nginx-multidomain-applications
 
 ## Actual steps
